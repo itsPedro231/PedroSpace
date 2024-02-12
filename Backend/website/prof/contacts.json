@@ -1,0 +1,18 @@
+{
+    "1":{
+        "name":"mail" ,
+        "url":"prat4258@mylaurier.ca",
+        "img_url":"https://www.iconpacks.net/icons/2/free-mail-icon-2569-thumb.png"
+    },
+    "2":{
+        "name":"github" ,
+        "url":"https://github.com/itsPedro231",
+        "img_url":"https://cdn-icons-png.flaticon.com/512/25/25231.png"
+    },
+    "3":{
+        "name":"linkedin" ,
+        "url":"https://www.linkedin.com/in/pedrofaraco231/",
+        "img_url":"https://creazilla-store.fra1.digitaloceanspaces.com/icons/3196946/linkedin-icon-md.png"
+    }
+
+}
