@@ -1,0 +1,32 @@
+{
+    "1":{
+        "company":"Agent Proxy",
+        "title":"Intern - Software Developer",
+        "about":"Contributing to the mobile development of the AgentProxy app. Working with flutter.",
+        "time":"Feb 2024 - Present",
+        "location":"Waterloo ON, Remote",
+        "url":"https://agentproxy.ca/",
+        "img_url":"https://media.licdn.com/dms/image/D4D0BAQG37ZAW7BsoRg/company-logo_100_100/0/1706145533995?e=1715817600&v=beta&t=oBbwFXjhAGz2KMyzHApxGe5pCZKKFHhAjZju5KEVCI8"
+
+    },
+    "2":{
+        "company":"LCS PODS Fall 2023",
+        "title":"Backend Developer",
+        "about":"Involved in the end-to-end development process of Optimeet (brainstorming, designing and prototyping). Played a key role on the backend development of the web application, utilizing Django, its REST framework and MySQL to implement a robust backend and Database solution.",
+        "time":"Oct 2023 - Jan 2024",
+        "location":"Waterloo ON",
+        "url":"https://github.com/LaurierCS/Pod4F23",
+        "img_url":"https://media.licdn.com/dms/image/C4D0BAQFb55mhDN6EXA/company-logo_200_200/0/1645392592309/lcs_pods_logo?e=1715817600&v=beta&t=UhlDiM7fJ8LUik6in7icECZhdDWevNNQC2r6zcSA22E"
+
+    },
+    "3":{
+        "company":"Thrift on Kent",
+        "title":"Volunteer",
+        "about":"Assisted staff with store organization by collaborating with team members to efficiently handle and manage incoming inventory.",
+        "time":"Jul 2022 - Jan 2023",
+        "location":"Kitchener ON",
+        "url":"",
+        "img_url":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEXf398xY1lCAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII="
+
+    }
+}

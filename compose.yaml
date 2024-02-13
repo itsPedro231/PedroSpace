@@ -1,0 +1,27 @@
+services:
+  front:
+    command : npm run dev
+    container_name: front
+    build:
+      context: ./Frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    stdin_open: true
+    depends_on:
+      - back
+    
+
+    
+
+  back:
+      build: 
+        context: ./Backend
+      container_name: back
+      command: python website/manage.py runserver 0.0.0.0:8000
+      volumes:
+        - ./backend/:/app
+        - ./backend/logs:/app/logs
+
+      ports:
+          - "8000:8000"

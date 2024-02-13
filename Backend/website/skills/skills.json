@@ -1,0 +1,65 @@
+{
+    "1":{
+        "name":"Python",
+        "img_url":"https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png"
+    },
+    "2":{
+        "name":"Django",
+        "img_url":"https://www.svgrepo.com/show/353657/django-icon.svg"
+    },
+    "3":{
+        "name":"Django REST",
+        "img_url":"https://img.stackshare.io/service/1630/New_Project__67_.png"
+    },
+    "4":{
+        "name":"Git",
+        "img_url":"https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
+    },
+    "5":{
+        "name":"MySQL",
+        "img_url":"https://cdn-icons-png.flaticon.com/512/5968/5968313.png"
+    },
+    "6":{
+        "name":"sqlite",
+        "img_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"
+    },
+    "7":{
+        "name":"Flutter",
+        "img_url":"https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png"
+    },
+    "12":{
+        "name":"Kotlin",
+        "img_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png"
+    },
+    
+    "13":{
+        "name":"OpenAI API",
+        "img_url":"https://static.vecteezy.com/system/resources/previews/024/558/801/original/openai-chatgpt-logo-icon-free-png.png"
+    },
+    "C":{
+        "name":"C",
+        "img_url":"https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"
+    },
+    "14":{
+        "name":"R",
+        "img_url":"https://www.crumplab.com/images/RStudio.png"
+    },
+    "10":{
+        "name":"Javascript",
+        "img_url":"https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png"
+    },
+    "11":{
+        "name":"React",
+        "img_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+    },
+    "9":{
+        "name":"Figma",
+        "img_url":"https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format"
+    },
+    "8":{
+        "name":"Docker",
+        "img_url":"https://static-00.iconduck.com/assets.00/docker-icon-256x256-civ8fayy.png"
+    }
+       
+
+}

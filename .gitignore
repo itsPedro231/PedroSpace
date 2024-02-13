@@ -1,0 +1,5 @@
+Backend/website/website/.env
+Frontend/.env
+
+# Local Netlify folder
+.netlify
